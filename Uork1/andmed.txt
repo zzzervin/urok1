@@ -1,0 +1,5 @@
+Number oli 2, päev on Teisipaev
+Number oli 4, päev on Neljapaev
+Number oli 2, päev on Teisipaev
+Number oli 2, päev on Teisipaev
+Number oli 3, päev on kolmapaev
